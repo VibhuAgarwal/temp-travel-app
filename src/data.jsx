@@ -59,7 +59,7 @@ export const tours = [
     img: tour1,
     date: 'august 26th, 2020',
     title: 'Tibet Adventure',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
+    text: 'Of all the 14 highest peaks (averaging above 8000m) in the world, 5 can be found in Tibet, making it the best-known trekking paradise for global travelers, only next to Nepal. Unexpectedly, the Holy Grail for Tibet trekking centers around Mt. Everest (8844.43m),',
     location: 'china',
     duration: '6 days',
     price: 'from $2100',
